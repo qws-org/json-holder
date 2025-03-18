@@ -2,7 +2,7 @@
   "lucky": {
     "Api2Url": [
       {
-        "value": "https://apiweb-example.com/apiweb",
+        "value": "https://apiweb-example.com/apiweb2",
         "ping": "https://apiweb-example.com/ping"
       }
     ],
