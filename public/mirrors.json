@@ -1,0 +1,80 @@
+{
+  "lucky": {
+    "Api2Url": [
+      {
+        "value": "https://apiweb-example.com/apiweb",
+        "ping": "https://apiweb-example.com/ping"
+      }
+    ],
+    "webApiUrl": [
+      {
+        "value": "https://api-example.com/api/web",
+        "ping": "https://api-example.com/ping"
+      }
+    ],
+    "frontendUrl": [
+      {
+        "value": "wss://fs-example.com/front",
+        "ping": "https://fs-example.com/ping"
+      }
+    ],
+    "clientUrl": [
+      {
+        "value": "wss://fs-example.com/client",
+        "ping": "https://fs-example.com/ping"
+      }
+    ]
+  },
+  "jackpoker": {
+    "Api2Url": [
+      {
+        "value": "https://apiweb-example.com/apiweb",
+        "ping": "https://apiweb-example.com/ping"
+      }
+    ],
+    "webApiUrl": [
+      {
+        "value": "https://api-example.com/api/web",
+        "ping": "https://api-example.com/ping"
+      }
+    ],
+    "frontendUrl": [
+      {
+        "value": "wss://fs-example.com/front",
+        "ping": "https://fs-example.com/ping"
+      }
+    ],
+    "clientUrl": [
+      {
+        "value": "wss://fs-example.com/client",
+        "ping": "https://fs-example.com/ping"
+      }
+    ]
+  },
+  "yupuke": {
+    "Api2Url": [
+      {
+        "value": "https://apiweb-example.com/apiweb",
+        "ping": "https://apiweb-example.com/ping"
+      }
+    ],
+    "webApiUrl": [
+      {
+        "value": "https://api-example.com/api/web",
+        "ping": "https://api-example.com/ping"
+      }
+    ],
+    "frontendUrl": [
+      {
+        "value": "wss://fs-example.com/front",
+        "ping": "https://fs-example.com/ping"
+      }
+    ],
+    "clientUrl": [
+      {
+        "value": "wss://fs-example.com/client",
+        "ping": "https://fs-example.com/ping"
+      }
+    ]
+  }
+}
