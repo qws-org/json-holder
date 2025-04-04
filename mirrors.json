@@ -66,8 +66,16 @@
     ],
     "frontendUrl": [
       {
-        "value": "wss://fs-example.com/front",
-        "ping": "https://fs-example.com/ping"
+        "value": "wss://fs.pfmywznp.com/front",
+        "ping": "https://fs.pfmywznp.com/ping"
+      },
+      {
+        "value": "wss://fs.wpa2bbek.com/front",
+        "ping": "https://fs.wpa2bbek.com/ping"
+      },
+      {
+        "value": "wss://fs.zkfbhb8f.xyz/front",
+        "ping": "https://fs.zkfbhb8f.xyz/ping"
       }
     ],
     "clientUrl": [
