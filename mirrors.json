@@ -80,8 +80,16 @@
     ],
     "clientUrl": [
       {
-        "value": "wss://fs-example.com/client",
-        "ping": "https://fs-example.com/ping"
+        "value": "https://pl.pfmywznp.com",
+        "ping": "https://pl.pfmywznp.com"
+      },
+      {
+        "value": "https://pl.wpa2bbek.com",
+        "ping": "https://pl.wpa2bbek.com"
+      },
+      {
+        "value": "https://pl.zkfbhb8f.xyz",
+        "ping": "https://pl.zkfbhb8f.xyz"
       }
     ]
   }
