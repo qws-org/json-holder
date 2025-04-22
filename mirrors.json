@@ -52,18 +52,8 @@
     ]
   },
   "yuepuke": {
-    "Api2Url": [
-      {
-        "value": "https://apiweb-example.com/apiweb",
-        "ping": "https://apiweb-example.com/ping"
-      }
-    ],
-    "webApiUrl": [
-      {
-        "value": "https://api-example.com/api/web",
-        "ping": "https://api-example.com/ping"
-      }
-    ],
+    "Api2Url": [],
+    "webApiUrl": [],
     "frontendUrl": [
       {
         "value": "wss://fs.pfmywznp.com/front",
