@@ -52,8 +52,42 @@
     ]
   },
   "yuepuke": {
-    "Api2Url": [],
-    "webApiUrl": [],
+    "Api2Url": [
+      {
+        "value": "https://web.pfmywznp.com/apiweb",
+        "ping": "https://web.pfmywznp.com/ping"
+      },
+      {
+        "value": "https://web.wpa2bbek.com/apiweb",
+        "ping": "https://web.wpa2bbek.com/ping"
+      },
+      {
+        "value": "https://web.zkfbhb8f.xyz/apiweb",
+        "ping": "https://web.zkfbhb8f.xyz/ping"
+      },
+      {
+        "value": "https://web.yuepuke.com/apiweb",
+        "ping": "https://web.yuepuke.com/ping"
+      }
+    ],
+    "webApiUrl": [
+      {
+        "value": "https://web.pfmywznp.com/api/web",
+        "ping": "https://web.pfmywznp.com/ping"
+      },
+      {
+        "value": "https://web.wpa2bbek.com/api/web",
+        "ping": "https://web.wpa2bbek.com/ping"
+      },
+      {
+        "value": "https://web.zkfbhb8f.xyz/api/web",
+        "ping": "https://web.zkfbhb8f.xyz/ping"
+      },
+      {
+        "value": "https://web.yuepuke.com/api/web",
+        "ping": "https://web.yuepuke.com/ping"
+      }
+    ],
     "frontendUrl": [
       {
         "value": "wss://fs.pfmywznp.com/front",
