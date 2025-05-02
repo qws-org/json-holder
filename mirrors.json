@@ -64,10 +64,6 @@
       {
         "value": "https://web.zkfbhb8f.xyz/apiweb",
         "ping": "https://web.zkfbhb8f.xyz/ping"
-      },
-      {
-        "value": "https://web.yuepuke.com/apiweb",
-        "ping": "https://web.yuepuke.com/ping"
       }
     ],
     "webApiUrl": [
@@ -82,10 +78,6 @@
       {
         "value": "https://web.zkfbhb8f.xyz/api/web",
         "ping": "https://web.zkfbhb8f.xyz/ping"
-      },
-      {
-        "value": "https://web.yuepuke.com/api/web",
-        "ping": "https://web.yuepuke.com/ping"
       }
     ],
     "frontendUrl": [
