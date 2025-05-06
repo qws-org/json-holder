@@ -55,29 +55,29 @@
     "Api2Url": [
       {
         "value": "https://web.pfmywznp.com/apiweb",
-        "ping": "https://web.pfmywznp.com/ping"
+        "ping": "https://fs.pfmywznp.com/ping"
       },
       {
         "value": "https://web.wpa2bbek.com/apiweb",
-        "ping": "https://web.wpa2bbek.com/ping"
+        "ping": "https://fs.wpa2bbek.com/ping"
       },
       {
         "value": "https://web.zkfbhb8f.xyz/apiweb",
-        "ping": "https://web.zkfbhb8f.xyz/ping"
+        "ping": "https://fs.zkfbhb8f.xyz/ping"
       }
     ],
     "webApiUrl": [
       {
         "value": "https://web.pfmywznp.com/api/web",
-        "ping": "https://web.pfmywznp.com/ping"
+        "ping": "https://fs.pfmywznp.com/ping"
       },
       {
         "value": "https://web.wpa2bbek.com/api/web",
-        "ping": "https://web.wpa2bbek.com/ping"
+        "ping": "https://fs.wpa2bbek.com/ping"
       },
       {
         "value": "https://web.zkfbhb8f.xyz/api/web",
-        "ping": "https://web.zkfbhb8f.xyz/ping"
+        "ping": "https://fs.zkfbhb8f.xyz/ping"
       }
     ],
     "frontendUrl": [
